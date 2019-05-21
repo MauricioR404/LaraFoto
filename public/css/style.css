@@ -1,0 +1,45 @@
+.avatar{
+	height: 50px;
+    border-radius: 50%;
+    border: 1px solid #9e9e9e26;
+}
+
+.form-group .avatar{
+	height: 126px!important;
+}
+
+.nick{
+    font-size: 13px;
+    color: darkgray;
+}
+
+.corazon{
+    width: 30px;
+    padding: 15px 0 0 0;
+}
+
+.boton{
+    margin: 15px 0 0 15px;
+}
+
+a{
+	text-decoration: none!important;
+	color: black!important;
+}
+
+a:hover{
+	text-decoration: none!important;
+	color: black!important;
+}
+
+.elemento .sub{
+    color: darkgray!important;
+}
+
+.perfil{
+    height: 160px;
+    border-radius: 50%;
+    border: 1px solid #9e9e9e26;
+}
+
+
